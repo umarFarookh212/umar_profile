@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
       <div className="relative px-6">
-        <div className="mx-auto max-w-2xl py-20">
+        <div className="mx-auto py-20">
           <div className="text-center space-y-6">
             <h1 className="text-4xl font-bold xt-gray-600 text-black tracking-wider uppercase sm:text-6xl">
               Umar farookh <span className="font-allura">syed</span>
@@ -14,11 +14,12 @@ const Home = () => {
                 Front end Developer
               </p>
               <a
-                href="https://www.linkedin.com/company/konic-technologies/"
+                href="https://empulseone.com/"
+                // href="https://www.linkedin.com/company/konic-technologies/"
                 target="_blank"
               >
                 <span className="text-violet-600 hover:text-red-600 bg-clip-text font-bold text-xl font-mono">
-                  Konic Technologies
+                  Empulse Global Pvt Ltd
                 </span>
               </a>
             </div>
@@ -33,22 +34,13 @@ const Home = () => {
                   <span className="absolute top-0 left-0 mt-1 ml-1 h-full w-full rounded bg-black"></span>
                   <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-white px-3 py-1 text-base font-bold text-black transition duration-100 hover:bg-yellow-400 hover:text-gray-900">
                     <a
-                      href="https://drive.google.com/file/d/1u2UDB2jgbquOqonwXkqOpmVRzyZod07a/view?usp=sharing"
+                      href="https://drive.google.com/file/d/11WTcyOZHH9bw5bngvdcWEal-iXBQf1CU/view?usp=sharing"
                       target="_blank"
                     >
                       View resume
                     </a>
                   </span>
                 </a>
-
-                {/* <NavLink to="About" className="relative">
-                  <span className="absolute top-0 left-0 mt-1 ml-1 h-full w-full rounded bg-gray-700"></span>
-                  <button>
-                    <span className="fold-bold relative inline-block h-full w-full rounded border-2 border-black bg-black px-3 py-1 text-base font-bold text-white transition duration-100 hover:bg-gray-900 hover:text-yellow-500 ">
-                      let's get started &rarr;
-                    </span>
-                  </button>
-                </NavLink> */}
               </div>
             </div>
           </div>
