@@ -22,7 +22,7 @@ const About = () => {
     <div>
       <Card className="mx-auto my-3 md:w-[70%] border-none text-black">
         <CardHeader>
-          <CardTitle className="text-3xl md:text-5xl font-allura text-blue-600  tracking-widest text-center duration-300">
+          <CardTitle className="text-4xl md:text-5xl font-allura text-blue-600  tracking-widest text-center duration-300">
             About me
           </CardTitle>
         </CardHeader>
@@ -46,10 +46,8 @@ const About = () => {
                 </p>
                 <p className="mt-2 font-alfa md:text-md flex flex-col justify-evenly leading-relaxed items-start text-pretty space-y-3">
                   I am a Front End Developer who is working on a new and
-                  creative projects. I have experience working with HTML, CSS,
-                  JavaScript, React, Tailwind css and Git. I am passionate about
-                  creating innovative, user-friendly web applications and take
-                  pride in delivering high performance solutions.
+                  creative projects. I have experience working with ReactJS, TypeScript, Node.js, AndDesign,
+                  Supabase, JavaScript HTML, CSS, JavaScript, Tailwind.css and Git. I am passionate about creating innovative, user-friendly web applications and take pride in delivering high performance solutions.
                   <span className="hidden md:block">
                     I possess strong problem-solving skills, excellent
                     communication ability, and a keen eye for details. I'm

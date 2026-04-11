@@ -5,7 +5,7 @@ const Projects = () => {
     <div className=" bg-white">
       <Card className="border-none">
         <CardHeader>
-          <CardTitle className="text-3xl md:text-5xl font-allura text-blue-600  tracking-widest text-center duration-300">
+          <CardTitle className="text-4xl md:text-5xl font-allura text-blue-600  tracking-widest text-center duration-300">
             Projects
           </CardTitle>
         </CardHeader>
