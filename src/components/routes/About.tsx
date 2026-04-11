@@ -46,8 +46,11 @@ const About = () => {
                 </p>
                 <p className="mt-2 font-alfa md:text-md flex flex-col justify-evenly leading-relaxed items-start text-pretty space-y-3">
                   I am a Front End Developer who is working on a new and
-                  creative projects. I have experience working with ReactJS, TypeScript, Node.js, AndDesign,
-                  Supabase, JavaScript HTML, CSS, JavaScript, Tailwind.css and Git. I am passionate about creating innovative, user-friendly web applications and take pride in delivering high performance solutions.
+                  creative projects. I have experience working with ReactJS,
+                  TypeScript, Node.js, AndDesign, Supabase, JavaScript HTML,
+                  CSS, JavaScript, Tailwind.css and Git. I am passionate about
+                  creating innovative, user-friendly web applications and take
+                  pride in delivering high performance solutions.
                   <span className="hidden md:block">
                     I possess strong problem-solving skills, excellent
                     communication ability, and a keen eye for details. I'm
@@ -79,7 +82,7 @@ const About = () => {
             <div className="flex flex-col justify-between items-center">
               <div className="flex flex-col items-center justify-around w-28">
                 <img
-                  src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCMS5dKOhb5ku0srvEaKlFhxDU51SIpW_Xg&s"
                   className="h-7 object-cover rounded-full w-7"
                 />
                 <p>React</p>
